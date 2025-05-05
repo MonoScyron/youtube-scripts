@@ -4,8 +4,8 @@
 // @version      1.0.1
 // @description  Add toggle to hide Youtube video progress
 // @author       MonoScyron
-// @updateURL    https://raw.githubusercontent.com/MonoScyron/youtube-scripts/main/dist/hide-video-progress.js
-// @downloadURL  https://raw.githubusercontent.com/MonoScyron/youtube-scripts/main/dist/hide-video-progress.js
+// @updateURL    https://raw.githubusercontent.com/MonoScyron/youtube-scripts/main/hide-video-progress.js
+// @downloadURL  https://raw.githubusercontent.com/MonoScyron/youtube-scripts/main/hide-video-progress.js
 // @match        https://www.youtube.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=youtube.com
 // @grant        none
