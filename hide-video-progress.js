@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Hide Youtube Video Progress
 // @namespace    https://github.com/MonoScyron/youtube-scripts
-// @version      1.0.2
+// @version      1.0.3
 // @description  Add toggle to hide Youtube video progress
 // @author       MonoScyron
 // @updateURL    https://raw.githubusercontent.com/MonoScyron/youtube-scripts/main/hide-video-progress.js
